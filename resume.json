@@ -1,0 +1,365 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Andrew Jackson",
+    "label": "Lead DevOps Engineer at ADX Labs, Inc",
+    "image": "",
+    "email": "me@andrewpjackson.com",
+    "phone": "612-900-8118",
+    "url": "",
+    "summary": "15+ Years of Leadership experience in small teams, with a focus on DevOps and Automation",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ajack",
+        "url": "https://www.linkedin.com/in/ajack/"
+      },
+      {
+        "network": "Twitter",
+        "username": "andrewpjackson_",
+        "url": "https://twitter.com/andrewpjackson_"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ADX Labs, Inc",
+      "position": "Lead DevOps Engineer",
+      "startDate": "2020-02-28",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Manage multiple Cloud (AWS, Azure, Aliyun) environments\nAutomation of operational processes and continuous delivery pipelines\nCloud networking, infrastructure provisioning and change management\nCloud organizational structure and change management, including accounts, identities, authorizations and governance\nWorking with engineering teams to remove barriers and enable innovation\n\nLead a team of 3-5 engineers\nSpend approximately 50% of my time managing/leading/strategizing/planning and 50% of my time engineering\nAct as primary owner of our Cloud infrastructure\nApply automation and Infrastructure as Code skills\nServe as an Cloud expert",
+      "url": "https://www.linkedin.com/company/adxlabsinc/"
+    },
+    {
+      "name": "Trimble Transportation",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2019-05-31",
+      "endDate": "2020-02-28",
+      "highlights": [],
+      "summary": "Responsible for mentoring and training others on the team\nFoster collaboration with software product development, architecture, and IT teams to ensure releases are delivered with repeatable and auditable processes\nResponsible for configuration, optimization, documentation and support of the infrastructure components of TTM software products which are hosted in collocated facilities and cloud services such as AWS\nDesign and build tools and frameworks that support deploying and managing TTM platforms\nDesign, build, and deliver cloud computing solutions, hosted services, and underlying software infrastructure\nAssist in coaching application developers on proper techniques for building scalable applications in the microservices paradigm\nSupport and troubleshoot scalability, high availability, performance, monitoring, backup and restores of different environments\nWork independently across multiple platforms and applications to understand dependencies\nEvaluate new tools, technologies, and processes to improve speed, efficiency, and scalability of TTM continuous integration environments\nDesign and architect solutions for existing client facing applications as they are moved into cloud environments such as AWS\nExperience working within an Agile type environment\nOn-call rotation: one time every seven weeks",
+      "url": "https://www.linkedin.com/company/trimble-transportation/",
+      "location": "Greater Minneapolis-St. Paul Area"
+    },
+    {
+      "name": "Lifetouch",
+      "position": "Senior Devops Engineer",
+      "startDate": "2018-10-31",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "summary": "Plan, integrate, administer, and support multiple on-prem and cloud-based systems. \nBuild/maintain Bamboo triggered infrastructure as code scripts leveraging AWS CloudFormation and other appropriate tools in support of the CI/CD pipeline. \nParticipate in code reviews for automation scripts developed by other team members using Git based pull/merge techniques. \nAssess, recommend, configure, and support monitoring tools in order to create telemetry and reduce the feedback loop between operations and development teams. \nEvaluate infrastructure utilization data in support of capacity planning, budgeting and infrastructure expansion. \nResolve problems in the entire application stack using Root Cause Analysis techniques. Perform other projects or miscellaneous duties as requested or assigned.",
+      "url": "https://www.linkedin.com/company/lifetouch/",
+      "location": "Eden Prarie, MN"
+    },
+    {
+      "name": "Entrust Datacard",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2017-05-31",
+      "endDate": "2018-10-31",
+      "highlights": [],
+      "summary": "Responsibilities:\n\n DevOps (75%)\n\n- Design and deploy, in an Agile (Scrum) environment, assets and code that will help, deploy, test, monitor and maintain components and services for next generation service platforms.\n- Lead day-to-day operational support activities for services developed using the DevOps practice.\n- Establish standards and repeatable processes for managing change across environments, taking advantage of innovative cloud technologies, DevOps tools and practices.\n- Assist with transition of colleagues and services from a legacy operating model to cloud operating model.\n- Apply knowledge of various programming/scripting languages including Python, bash.  Support best practices and configuration management to support and maintain services.\n- Use various Technical tools to develop/deliver CI/CD process. Jenkins, Octopus, Ansible, CloudFormation.\n- Build operational documentation from existing service architectures and standards.\n- Participate in the service on-call rotation providing 24/7 incident response.\n- Support various cloud environments, primarily in AWS.\n\nProcess (25%)\n\n- Collaborate across all verticals within the organization using Agile methodologies and processes.\n- Develop plans and strategies, influence technology roadmaps for SaaS and PaaS solutions across public and hybrid delivery models with a global perspective in mind.\n- Use creative and innovative approaches to solve problems.\n- Effectively lead and motivate teams through significant change.\n- Embrace a start-up mentality.",
+      "url": "https://www.linkedin.com/company/entrust/",
+      "location": "Shakopee, MN"
+    },
+    {
+      "name": "Entrust Datacard",
+      "position": "Senior System Engineer - Core Infrastructure",
+      "startDate": "2014-12-31",
+      "endDate": "2017-05-31",
+      "highlights": [],
+      "summary": "The IT Systems Engineer is responsible for the planning and engineering of Entrust Datacard systems infrastructure. This includes the implementation and deployment of hardware and software as well as monitoring the performance of systems. The IT Systems Engineer will design, analyze, evaluate, test, and implement applications and Infrastructure systems in support of our long term revenue growth goals. \n\nResponsibilities: \n• Manage Office 365 deployment for 2000+ users.\n• Plan, configure and maintain Cisco UCS platforms.\n• Plan, configure and maintain multiple VMware clusters between 5.x and 6.x\n• Plan, configure and maintain VMware Horizon View environment for 200+ desktops\n• Install and maintain Windows 2003/2008/2012 (including R2) servers \n• Administer enterprise backup clients for managed systems (NetBackup) \n• Administer and maintain Exchange Server 2010/2013 in an enterprise environment \n• Administer and maintain Microsoft Lync 2010/2013 \n• Ability to plan, design and implement solutions (Exchange, Active Directory, Lync, VMware, UCS) in both local and wide-area network environments",
+      "url": "https://www.linkedin.com/company/entrust/",
+      "location": "Shakopee, MN"
+    },
+    {
+      "name": "Kroll Ontrack",
+      "position": "Systems Administrator - Global Infrastructure",
+      "startDate": "2014-04-30",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "Responsible for effective provisioning, installation/configuration, operation, and maintenance of systems hardware/software and related infrastructure. Participate in technical research and development to enable continuing innovation within the infrastructure.\n\nAccountability for the following systems: Linux and Windows systems that support the Global Infrastructure; Linux, Windows and Application systems that support ADFS, Exchange, Lync, SCCM, VmWare; Responsibilities on these systems include SA engineering and provisioning, operations and support, maintenance and research and development to ensure continual innovation.",
+      "url": "https://www.linkedin.com/company/ontrackdatarecovery/",
+      "location": "Eden Prairie, Minnesota"
+    },
+    {
+      "name": "Smith Micro Technologies",
+      "position": "Systems Administrator",
+      "startDate": "2012-02-28",
+      "endDate": "2014-04-30",
+      "highlights": [],
+      "summary": "•\tParticipating in the evaluation, development, and implementation of security standards, procedures, and guidelines for multiple platforms and diverse systems environments.\n•\tDesigning network vulnerability scans and providing remediation alternatives.\n•\tDeveloping specifications for complex network security and protection technologies for company information and network systems and applications.\n•\tIdentifying emerging vulnerabilities and evaluating associated risks and threats.\n•\tEncrypt data transmissions and erect firewalls to conceal confidential information as it is being transmitted and to keep out tainted digital transfers.\n•\tPerform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.\n•\tConfer with users to discuss issues such as computer data access needs, security violations, and programming changes.\n•\tTrain users and promote security awareness to ensure system security and to improve server and network efficiency.\n•\tCoordinate implementation of computer system plan with establishment personnel and outside vendors.\n•\tInstallation, configuration and administration of SharePoint Environments.\n•\tWork in partnership with clients, advising them how to use IT in order to create solutions and meet their business objectives.\n•\tPartner with clients to improve overall structure and efficiency of infrastructure IT systems.\n•\tProvide strategic guidance to organizations in regard to technologies.\n•\tDeploying and Managing SharePoint Applications.\n•\tInstallation, configuration and administration of: Exchange 2003/2007/2010/2013, Office 365, SQL Server 2005/2008, Server 2000/2003/2008/2012, WSUS, backup exec 2012, MobileEcho, Trend Micro Business Security, and WatchGuard Firewalls.\n•\tSystem monitoring and remote support with Kaseya.\n•\tInstallation, configuration and administration of virtual environments with Hyper-V\n•\tService administration using PowerShell.",
+      "url": "",
+      "location": "Saint Paul, MN"
+    },
+    {
+      "name": "US Army",
+      "position": "Information Technology Specialist",
+      "startDate": "2007-01-31",
+      "endDate": "2012-04-30",
+      "highlights": [],
+      "summary": "Experience with installation and configuration of Microsoft Server 2000/2K3/2K8, Exchange 2003/2007.\nInstallation, configuration, and management of software solutions such as Microsoft SQL 2005, IIS, .NET applications, patch deployments, Active Directory.\nExtensive knowledge of Microsoft Application Suite's 2003, 2007, 2010.\nVast troubleshooting experience with Micrsoft Operating Systems and Software.; Placed 3rd in the Minnesota 2011 Collegiate Cyber Defense Competition.\nExperience with providing constant availability and support of services to maintain 100% uptime and availability.\nCommunication and project management skills involving both large and small team members.\nExperience working with separate tiers of support and using proper escalation procedures for completing tasks.",
+      "url": "https://www.linkedin.com/company/us-army/"
+    },
+    {
+      "name": "US Army",
+      "position": "SharePoint Administrator - Knowledge Management",
+      "startDate": "2008-11-30",
+      "endDate": "2010-02-28",
+      "highlights": [],
+      "summary": "Diagnose and troubleshoot SharePoint related issues timely and efficiently in support of over 1000 daily local users and 10,000 daily remote users. \nLeveraged organic SharePoint configuration and designer capabilities to deliver practical solutions matched to business unit specifications to expose time-critical and project-relevant information.  \nEvaluate, select and articulate architecture strategies for MOSS 2007 server farm. \nSharePoint architectural design, Web Parts development, server installation, management and troubleshooting with a focus on planning, deploying and supporting enterprise SharePoint implementations. \nUsing knowledge management skills to establish standards for information and quality control.\nTraining thousands of non-technical users on building and customization of SharePoint lists, libraries, sites, workspaces, and web parts, while providing expert advice on SharePoint best practices. \nDesign and develop user interface/functionality along with server farm architecture for SharePoint 2007.",
+      "url": "https://www.linkedin.com/company/us-army/"
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Active Directory",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Exchange",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hyper-V",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "US Army",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backup Exec",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows XP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Installation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows 7",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SharePoint Designer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Exchange 2010/2007/2003",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Office 365",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cisco IOS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "General Awesomeness",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SharePoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cisco Technologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Server 2008",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office Sharepoint Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Awesomeness",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security+",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Watchguard",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cisco Devices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Information Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Critical Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Marc Peterson",
+      "reference": "Andrew has a unique combination of skills.  Andrew has increased the company's productivity and implemented multiple other business solutions.  Andrew has the great ability to explain technical solutions and situations to both individuals that are technical and non-technical.  Andrew can see the big picture and drives others to get results and to be the best they can be."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Migration of Web Servers behind F5's.",
+      "startDate": "2015-09-30",
+      "summary": "Coordination and implimentation of moving externally facing websites to HTTPS while simultaneously positioning them behind F5 LTM appliances. ",
+      "url": null
+    },
+    {
+      "name": "Office 365 Migration",
+      "startDate": "2015-06-30",
+      "summary": "Plan, design and implement migration of both Exchange and Lync services to Office 365 for 2000+ users.",
+      "url": null
+    },
+    {
+      "name": "Deploy ADFS 3.0",
+      "startDate": "2015-06-30",
+      "summary": "Implemented a highly available ADFS 3.0 deployment in preparation for Office 365.",
+      "url": null,
+      "endDate": "2015-06-30"
+    },
+    {
+      "name": "Cisco UCS Deployment",
+      "startDate": "2015-04-30",
+      "summary": "Deploy multiple UCS Chassis and blades for new production vmware cluster.  Migration of vmware environment to new UCS hosts.",
+      "url": null,
+      "endDate": "2015-04-30"
+    },
+    {
+      "name": "AMILookup",
+      "startDate": "",
+      "summary": "A tool to lookup AMI's from the web and get detailed information.",
+      "url": "https://amilookup.com"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
